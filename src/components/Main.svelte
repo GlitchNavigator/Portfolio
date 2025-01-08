@@ -80,7 +80,7 @@
         <a
             href="https://www.linkedin.com/posts/leaderbrandproduce_the-future-of-farming-is-here-our-engineering-activity-7261833821791109121-B2XC?utm_source=combined_share_message&utm_medium=member_desktop_web"
             target="_blank"
-            class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-violet-700 duration-200"
+            class="mx-auto px-10 text-2xl py-9 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-violet-700 duration-200"
         >
             <i class="fa-regular fa-circle-play" />
             <p>Watch this video</p>
